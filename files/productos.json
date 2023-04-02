@@ -1,0 +1,29 @@
+[
+   {
+      "title": "Guilliman",
+      "description": "Miniatura Roboute Guilliman",
+      "price": 150000,
+      "thumbnail": "no hay imagen",
+      "code": "MPUMRG",
+      "stock": 50,
+      "id": 1
+   },
+   {
+      "title": "Primaris",
+      "description": "Miniatura Ultramarine Primaris",
+      "price": 20000,
+      "thumbnail": "no hay imagen",
+      "code": "MMPDUM",
+      "stock": 30,
+      "id": 2
+   },
+   {
+      "title": "Lion El'Jonson",
+      "description": "Miniatura Lion El'Jonson",
+      "price": 120000,
+      "thumbnail": "no hay  imagen",
+      "code": "MPAOLJ",
+      "stock": 5,
+      "id": 3
+   }
+]
