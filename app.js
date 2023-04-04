@@ -9,8 +9,8 @@ const prods = new ProductManager();
 app.get('/products', (req, res) => {
     const { limit } = req.query
     prods.getProducts().then(products => {
-        const limitProduts = products.slice(0, limit)
-        res.send(limitProduts)})
+        const limitProducts = products.slice(0, limit)
+        res.send(limitProducts)})
         .catch(err => res.status(500).send(err))
 })
 
